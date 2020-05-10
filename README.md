@@ -38,25 +38,25 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
-| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
-| [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
-| [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
-| [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
-| [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns       |
-| [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
-| [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
-| [Illustration.co](https://illlustrations.co/)                                                            | Open-source illustrations kit                                      |
-| [Opendoodles](https://www.opendoodles.com/)                                                              | Free sketchy illustrations                                         |
-| [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
-| [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
-| [Animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
-| [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
-| [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
-| [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
-| [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
-| [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
-| [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.
+| [UI Design Daily](https://uidesigndaily.com/?target=_blank)?target=_blank                                                            | Awesome UI Components of all types                                 |
+| [100 Daily UI](https://100dailyui.webflow.io/?target=_blank)                                                           | Free Figma library of products, elements, and screens              |
+| [Sketch App Sources](https://www.sketchappsources.com/?target=_blank)                                                  | Sketch UIs, wireframes, icons and much more                        |
+| [Humaaans](https://www.humaaans.com/?target=_blank)                                                                    | Cool illustrations of people with the ability to mix and match     |
+| [Paaatterns](https://products.ls.graphics/paaatterns/?target=_blank)                                                   | Free collection of beautiful patterns for all vector formats       |
+| [thepatternlibrary](http://thepatternlibrary.com/?target=_blank)                                                       | Free beautiful background patterns       |
+| [Drawkit.io](https://www.drawkit.io/?target=_blank)                                                                    | Illustrations for designers and startups                           |
+| [Undraw.co](https://undraw.co/?target=_blank)                                                                          | Open-source illustrations for any idea you can imagine and create  |
+| [Illustration.co](https://illlustrations.co/?target=_blank)                                                            | Open-source illustrations kit                                      |
+| [Opendoodles](https://www.opendoodles.com/?target=_blank)                                                              | Free sketchy illustrations                                         |
+| [Open Peeps](https://www.openpeeps.com/?target=_blank)                                                                 | Hand drawn illustration library                                    |
+| [UI Space](https://uispace.net/?target=_blank)                                                                         | Thousands of great UI freebies                                     |
+| [Animations.co](http://animaticons.co/?target=_blank)                                                                  | Beautiful, customizable animated GIF icons                         |
+| [Uplabs](https://www.uplabs.com/?target=_blank)                                                                        | High-quality design resources (Free & Premium)                     |
+| [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/?target=_blank)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
+| [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/?target=_blank)                                | The 10 most popular open source frontend web UI kits               |
+| [Open Doodles](https://www.opendoodles.com/?target=_blank)                                                             | A Free Set of Sketchy Illustrations                                |
+| [Avataaars](https://avataaars.com/?target=_blank)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
+| [FreebieSketch](https://freebiesketch.com/?target=_blank)                                                              | Free Sketch designs, wireframes, illustrations, and more.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
